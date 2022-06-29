@@ -1,1 +1,1 @@
-# ising-model-NN
+# 2D Ising Model - Neural Networks
